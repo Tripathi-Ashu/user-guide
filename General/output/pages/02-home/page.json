@@ -1,0 +1,3683 @@
+{
+  "pageTitle": "Home - GovCon 360 Public Site - Liferay",
+  "pageUrl": "https://www.nlproducts.net/home",
+  "pageLanguage": "en-US",
+  "pageCharset": "UTF-8",
+  "pageDescription": "Skip to Main Content\nOpen Accessibility Menu\nHome\nSolutions For\nFeatures\nPricing\nResources\nAbout\nExplore\nLogin\nGovernment Contracting Software, Simplified.\n\nAt GovCon360, we demystify the federal marketplace for small businesses. Whether you are looking for your very first contract or trying to figure out which agencies buy your services, our government contracting software gives you the simple, powerful tools to find and win government work with total confidence.\n\nSchedule a Demo\nCORE FEATURES\n Government Contracting Tools to Compete and Win\n\nBreaking into government work shouldn't require a translator. We took the most complicated parts of federal contracting and turned them into straightforward tools. Now your small team can find the right opportunities and manage bids without feeling overwhelmed.\n\n Market Intelligence\nKnow Your Market\n\nStop guessing where your next contract will come from by seeing the full picture of the federal marketplace. We provide detailed data on entity profiles and office spending habits so you can identify agency trends and agency targets. Build your strategy on facts rather than assumptions.\n\nMarket intelligence details -->\n Lead Prospector\nCapture the Right Leads\n\nAccess a database of millions of contracts and thousands of active agencies to find the opportunities that fit your business. Our Lead Prospector tools allow you to filter through the noise and focus on high-probability wins. Get the visibility you need to compete with the big players.\n\nLead prospector details -->\n Business Development\nOrganize Your Way to a Win\n\nManage every step of your bidding process with tools designed to keep your pipeline moving forward. Track your opportunities and manage your accounts in one centralized workspace. Efficiently organize your contacts and tasks so you never miss a deadline or a follow-up.\n\nBusiness development details -->\n Teaming Partnerships\nFind the right fit, faster\n\nGovernment contracting is a team sport. GovCon360 helps you find vetted government contract teaming partners and build winning alliances. Seamlessly align your strengths, manage joint bids, and foster mutual trust in our secure, shared workspace.\n\nTeaming partnerships details -->\nOVER 40+ DATA SOURCES\nOne Platform, Powerful Data\n\nWe bring together all the essential information from sites like GSA, Symphony, SBA.gov, USASpending.gov, and SAM.gov. You no longer have to dig through multiple complex websites to find what you need. Our federal contracting platform does the heavy lifting to help you spot opportunities, understand the market, and make smart moves with total confidence. We make the research easy so your team can focus on winning together.\n\nWHO IT'S FOR\nCompeting Against Industry Giants?\n\nWhether you're just starting out or scaling up, this platform was made with you in mind. We built this for the go-getters and the groundbreakers:\n\nSmall & Micro Businesses\n\nWe provide a clear and supportive path from your first step to contract readiness. You gain access to the tools, training, and positive community you need to compete and win. We are here to support your success every step of the way.\n\nHow we help small businesses -->\nBusiness Developers\n\nWe give you an intelligent dashboard to clearly track and prioritize opportunities. Access active leads and connect instantly with qualified teaming partners. Our tools are designed to help your team secure victories and grow with absolute confidence.\n\nHow we help BDs -->\nResellers\n\nWe help you access real time buyer demand and match with exactly the right partners. Build a standout profile that naturally attracts teaming interest and increases your visibility to agencies. We believe in fostering valuable connections that benefit everyone.\n\nHow we help resellers -->\nFinding Teaming Partners\n\nWe help you connect with vetted businesses that share your drive and good intentions. Easily fill capability gaps, find precise socio-economic certifications, and manage joint federal bids with absolute confidence and seamless, positive collaboration.\n\nHow we help with partnerships -->\n Built with Security in Mind\n\nOur SaaS platform is fully secure and compliant with industry standards. Your data is protected, your insights are private, and your peace of mind is baked in. From log-in to data export, security is part of our DNA.\n\n Stop Navigating Government Portals and Start Bidding to Win\nA quick, tailored platform tour with zero commitment and zero hassle.\n\nSee why small businesses trust GovCon360 to simplify the federal marketplace. Book your free demo to see how our unified platform helps you uncover active opportunities, analyze competitors, and build winning proposals, all within one intuitive interface. We’ll show you how to find and secure more government work.\n\nSchedule a Demo\n\nWe use cookies to deliver personalized content, analyze trends, administer the site, track user movements on the site, and collect demographic information about our user base as a whole. Accept all cookies for the best possible experience on our website or manage your preferences.\n\nCustomize\nReject all\nAccept all",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "seo": {
+    "title": "Home - GovCon 360 Public Site - Liferay",
+    "description": "",
+    "keywords": "",
+    "author": "",
+    "canonical": "https://www.nlproducts.net/",
+    "robots": "",
+    "openGraph": [
+      {
+        "property": "og:locale",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "en_US"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "ar_SA"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "ca_ES"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "zh_CN"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "nl_NL"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "fi_FI"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "fr_FR"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "de_DE"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "hu_HU"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "ja_JP"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "pt_BR"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "es_ES"
+      },
+      {
+        "property": "og:locale:alternate",
+        "content": "sv_SE"
+      },
+      {
+        "property": "og:site_name",
+        "content": "GovCon 360 Public Site"
+      },
+      {
+        "property": "og:title",
+        "content": "Home - GovCon 360 Public Site - Liferay"
+      },
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.nlproducts.net"
+      }
+    ],
+    "twitter": []
+  },
+  "headings": {
+    "h1": [
+      "Government Contracting Software, Simplified."
+    ],
+    "h2": [
+      "Government Contracting Tools to Compete and Win",
+      "Market Intelligence",
+      "Lead Prospector",
+      "Business Development",
+      "Teaming Partnerships",
+      "One Platform, Powerful Data",
+      "Competing Against Industry Giants?",
+      "Built with Security in Mind",
+      "Stop Navigating Government Portals and Start Bidding to Win"
+    ],
+    "h3": [
+      "Know Your Market",
+      "Capture the Right Leads",
+      "Organize Your Way to a Win",
+      "Find the right fit, faster",
+      "Small & Micro Businesses",
+      "Business Developers",
+      "Resellers",
+      "Finding Teaming Partners",
+      "A quick, tailored platform tour with zero commitment and zero hassle."
+    ],
+    "h4": [
+      "Unlock Premium Tools for Growth",
+      "Unlock Premium Tools for Growth",
+      "Unlock Premium Tools for Growth",
+      "Unlock Premium Tools for Growth"
+    ],
+    "h5": [],
+    "h6": []
+  },
+  "paragraphs": [
+    "Know what’s coming.",
+    "Explore essential resources.",
+    "Access smarter tools with a premium account. Explore features helping you win more contracts and strategically grow.",
+    "Log in or upgrade to access Premium tools.",
+    "Know what’s coming.",
+    "Explore essential resources.",
+    "Access smarter tools with a premium account. Explore features helping you win more contracts and strategically grow.",
+    "Log in or upgrade to access Premium tools.",
+    "Know what’s coming.",
+    "Explore essential resources.",
+    "Access smarter tools with a premium account. Explore features helping you win more contracts and strategically grow.",
+    "Log in or upgrade to access Premium tools.",
+    "Know what’s coming.",
+    "Explore essential resources.",
+    "Access smarter tools with a premium account. Explore features helping you win more contracts and strategically grow.",
+    "Log in or upgrade to access Premium tools.",
+    "At GovCon360, we demystify the federal marketplace for small businesses. Whether you are looking for your very first contract or trying to figure out which agencies buy your services, our government contracting software gives you the simple, powerful tools to find and win government work with total confidence.",
+    "Breaking into government work shouldn't require a translator. We took the most complicated parts of federal contracting and turned them into straightforward tools. Now your small team can find the right opportunities and manage bids without feeling overwhelmed.",
+    "Stop guessing where your next contract will come from by seeing the full picture of the federal marketplace. We provide detailed data on entity profiles and office spending habits so you can identify agency trends and agency targets. Build your strategy on facts rather than assumptions.",
+    "Access a database of millions of contracts and thousands of active agencies to find the opportunities that fit your business. Our Lead Prospector tools allow you to filter through the noise and focus on high-probability wins. Get the visibility you need to compete with the big players.",
+    "Manage every step of your bidding process with tools designed to keep your pipeline moving forward. Track your opportunities and manage your accounts in one centralized workspace. Efficiently organize your contacts and tasks so you never miss a deadline or a follow-up.",
+    "Government contracting is a team sport. GovCon360 helps you find vetted government contract teaming partners and build winning alliances. Seamlessly align your strengths, manage joint bids, and foster mutual trust in our secure, shared workspace.",
+    "We bring together all the essential information from sites like GSA, Symphony, SBA.gov, USASpending.gov, and SAM.gov. You no longer have to dig through multiple complex websites to find what you need. Our federal contracting platform does the heavy lifting to help you spot opportunities, understand the market, and make smart moves with total confidence. We make the research easy so your team can focus on winning together.",
+    "Whether you're just starting out or scaling up, this platform was made with you in mind. We built this for the go-getters and the groundbreakers:",
+    "We provide a clear and supportive path from your first step to contract readiness. You gain access to the tools, training, and positive community you need to compete and win. We are here to support your success every step of the way.",
+    "We give you an intelligent dashboard to clearly track and prioritize opportunities. Access active leads and connect instantly with qualified teaming partners. Our tools are designed to help your team secure victories and grow with absolute confidence.",
+    "We help you access real time buyer demand and match with exactly the right partners. Build a standout profile that naturally attracts teaming interest and increases your visibility to agencies. We believe in fostering valuable connections that benefit everyone.",
+    "We help you connect with vetted businesses that share your drive and good intentions. Easily fill capability gaps, find precise socio-economic certifications, and manage joint federal bids with absolute confidence and seamless, positive collaboration.",
+    "Our SaaS platform is fully secure and compliant with industry standards. Your data is protected, your insights are private, and your peace of mind is baked in. From log-in to data export, security is part of our DNA.",
+    "See why small businesses trust GovCon360 to simplify the federal marketplace. Book your free demo to see how our unified platform helps you uncover active opportunities, analyze competitors, and build winning proposals, all within one intuitive interface. We’ll show you how to find and secure more government work.",
+    "We use cookies to deliver personalized content, analyze trends, administer the site, track user movements on the site, and collect demographic information about our user base as a whole. Accept all cookies for the best possible experience on our website or manage your preferences."
+  ],
+  "navigation": [
+    {
+      "text": "Skip to Main Content\nOpen Accessibility Menu",
+      "links": [
+        {
+          "text": "Skip to Main Content",
+          "href": "https://www.nlproducts.net/home#main-content",
+          "id": "",
+          "className": "d-block p-2 sr-only sr-only-focusable text-reset",
+          "ariaLabel": null,
+          "role": null
+        }
+      ]
+    },
+    {
+      "text": "Home\nSolutions For\nFeatures\nPricing\nResources\nAbout\nExplore",
+      "links": [
+        {
+          "text": "Home",
+          "href": "https://www.nlproducts.net/home",
+          "id": "",
+          "className": "nav-link dropdown-toggle d-flex align-items-center ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Solutions For",
+          "href": "https://www.nlproducts.net/solutions-for",
+          "id": "",
+          "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Business Developers  Track what matters.",
+          "href": "https://www.nlproducts.net/solutions/business-developers",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Small Businesses  Compete with confidence.",
+          "href": "https://www.nlproducts.net/solutions/small-business",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Resellers  Sell more, faster.",
+          "href": "https://www.nlproducts.net/solutions/resellers",
+          "id": "",
+          "className": "dropdown-item resellers ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Teaming Partners  Find the right teams.",
+          "href": "https://www.nlproducts.net/solutions/teaming-partners",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Features",
+          "href": "https://www.nlproducts.net/features",
+          "id": "",
+          "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Market Intelligence  Know what's coming.",
+          "href": "https://www.nlproducts.net/features/market-intelligence",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Lead Prospector  Zero in on the right leads.",
+          "href": "https://www.nlproducts.net/features/lead-finder",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Business Development  Build better pipelines.",
+          "href": "https://www.nlproducts.net/features/business-development",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Teaming Partnerships  Find who you need.",
+          "href": "https://www.nlproducts.net/features/teaming-partnerships",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Pricing",
+          "href": "https://www.nlproducts.net/pricing",
+          "id": "",
+          "className": "nav-link dropdown-toggle d-flex align-items-center ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Resources",
+          "href": "https://www.nlproducts.net/resources",
+          "id": "",
+          "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "All",
+          "href": "https://www.nlproducts.net/resources",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Blogs",
+          "href": "https://www.nlproducts.net/resources/blogs",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://www.nlproducts.net/resources/case-studies",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Downloads",
+          "href": "https://www.nlproducts.net/resources/downloadable-content",
+          "id": "",
+          "className": "dropdown-item test-download-class ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Events",
+          "href": "https://www.nlproducts.net/resources/events",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Upcoming Webinars",
+          "href": "https://www.nlproducts.net/resources/webinars",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "About",
+          "href": "https://www.nlproducts.net/about-page-set",
+          "id": "",
+          "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Our Company",
+          "href": "https://www.nlproducts.net/about-us",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Become an affiliate",
+          "href": "https://www.nlproducts.net/affiliate-program",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Collaborate With Us",
+          "href": "https://www.nlproducts.net/collaboration-program",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nlproducts.net/contact",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Schedule A Demo",
+          "href": "https://www.nlproducts.net/schedule-demo",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Explore",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "nav-link dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Awards",
+          "href": "https://www.nlproducts.net/data/awards",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Solicitations",
+          "href": "https://www.nlproducts.net/data/solicitations",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Contracts",
+          "href": "https://www.nlproducts.net/data/contracts",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Vehicles",
+          "href": "https://www.nlproducts.net/data/vehicles",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Vendors",
+          "href": "https://www.nlproducts.net/data/vendors",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Agencies",
+          "href": "https://www.nlproducts.net/data/agencies",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Offices",
+          "href": "https://www.nlproducts.net/data/offices",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "People",
+          "href": "https://www.nlproducts.net/data/people",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Clause Library",
+          "href": "https://www.nlproducts.net/data/clauses",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Compare Clauses",
+          "href": "https://www.nlproducts.net/data/compare-clauses",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Wage Determination",
+          "href": "https://www.nlproducts.net/data/wage-determinations",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "NAICs",
+          "href": "https://www.nlproducts.net/data/naics",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "PSCs",
+          "href": "https://www.nlproducts.net/data/psc",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "SINs",
+          "href": "https://www.nlproducts.net/sins",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "SICs",
+          "href": "https://www.nlproducts.net/data/sic",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "RFx Notices",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "SAM.GOV Leads",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Recompetes",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Opportunities",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Accounts",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Contacts",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Partner Finder",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Opportunity Collaboration",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Deal Registrations",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Learn more about Premium",
+          "href": "https://www.nlproducts.net/pricing",
+          "id": "",
+          "className": "btn btn-primary",
+          "ariaLabel": null,
+          "role": null
+        }
+      ]
+    },
+    {
+      "text": "Home\nSolutions For\nFeatures\nPricing\nResources\nAbout\nExplore",
+      "links": [
+        {
+          "text": "Home",
+          "href": "https://www.nlproducts.net/home",
+          "id": "",
+          "className": "nav-link dropdown-toggle d-flex align-items-center ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Solutions For",
+          "href": "https://www.nlproducts.net/solutions-for",
+          "id": "",
+          "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Business Developers  Track what matters.",
+          "href": "https://www.nlproducts.net/solutions/business-developers",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Small Businesses  Compete with confidence.",
+          "href": "https://www.nlproducts.net/solutions/small-business",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Resellers  Sell more, faster.",
+          "href": "https://www.nlproducts.net/solutions/resellers",
+          "id": "",
+          "className": "dropdown-item resellers ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Teaming Partners  Find the right teams.",
+          "href": "https://www.nlproducts.net/solutions/teaming-partners",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Features",
+          "href": "https://www.nlproducts.net/features",
+          "id": "",
+          "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Market Intelligence  Know what's coming.",
+          "href": "https://www.nlproducts.net/features/market-intelligence",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Lead Prospector  Zero in on the right leads.",
+          "href": "https://www.nlproducts.net/features/lead-finder",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Business Development  Build better pipelines.",
+          "href": "https://www.nlproducts.net/features/business-development",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Teaming Partnerships  Find who you need.",
+          "href": "https://www.nlproducts.net/features/teaming-partnerships",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Pricing",
+          "href": "https://www.nlproducts.net/pricing",
+          "id": "",
+          "className": "nav-link dropdown-toggle d-flex align-items-center ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Resources",
+          "href": "https://www.nlproducts.net/resources",
+          "id": "",
+          "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "All",
+          "href": "https://www.nlproducts.net/resources",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Blogs",
+          "href": "https://www.nlproducts.net/resources/blogs",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://www.nlproducts.net/resources/case-studies",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Downloads",
+          "href": "https://www.nlproducts.net/resources/downloadable-content",
+          "id": "",
+          "className": "dropdown-item test-download-class ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Events",
+          "href": "https://www.nlproducts.net/resources/events",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Upcoming Webinars",
+          "href": "https://www.nlproducts.net/resources/webinars",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "About",
+          "href": "https://www.nlproducts.net/about-page-set",
+          "id": "",
+          "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Our Company",
+          "href": "https://www.nlproducts.net/about-us",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Become an affiliate",
+          "href": "https://www.nlproducts.net/affiliate-program",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Collaborate With Us",
+          "href": "https://www.nlproducts.net/collaboration-program",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Contact Us",
+          "href": "https://www.nlproducts.net/contact",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Schedule A Demo",
+          "href": "https://www.nlproducts.net/schedule-demo",
+          "id": "",
+          "className": "dropdown-item ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Explore",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "nav-link dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Awards",
+          "href": "https://www.nlproducts.net/data/awards",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Solicitations",
+          "href": "https://www.nlproducts.net/data/solicitations",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Contracts",
+          "href": "https://www.nlproducts.net/data/contracts",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Vehicles",
+          "href": "https://www.nlproducts.net/data/vehicles",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Vendors",
+          "href": "https://www.nlproducts.net/data/vendors",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Agencies",
+          "href": "https://www.nlproducts.net/data/agencies",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Offices",
+          "href": "https://www.nlproducts.net/data/offices",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "People",
+          "href": "https://www.nlproducts.net/data/people",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Clause Library",
+          "href": "https://www.nlproducts.net/data/clauses",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Compare Clauses",
+          "href": "https://www.nlproducts.net/data/compare-clauses",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Wage Determination",
+          "href": "https://www.nlproducts.net/data/wage-determinations",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "NAICs",
+          "href": "https://www.nlproducts.net/data/naics",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "PSCs",
+          "href": "https://www.nlproducts.net/data/psc",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "SINs",
+          "href": "https://www.nlproducts.net/sins",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "SICs",
+          "href": "https://www.nlproducts.net/data/sic",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "RFx Notices",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "SAM.GOV Leads",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Recompetes",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Opportunities",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Accounts",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Contacts",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Partner Finder",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Opportunity Collaboration",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Deal Registrations",
+          "href": "https://www.nlproducts.net/home#",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Learn more about Premium",
+          "href": "https://www.nlproducts.net/pricing",
+          "id": "",
+          "className": "btn btn-primary",
+          "ariaLabel": null,
+          "role": null
+        }
+      ]
+    }
+  ],
+  "sections": [],
+  "links": [
+    {
+      "text": "Skip to Main Content",
+      "href": "https://www.nlproducts.net/home#main-content",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "d-block p-2 sr-only sr-only-focusable text-reset",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "",
+      "href": "https://www.nlproducts.net/home",
+      "target": "",
+      "title": "GovCon360",
+      "id": "",
+      "className": "custom-logo",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Home",
+      "href": "https://www.nlproducts.net/home",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle d-flex align-items-center ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Solutions For",
+      "href": "https://www.nlproducts.net/solutions-for",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Business Developers  Track what matters.",
+      "href": "https://www.nlproducts.net/solutions/business-developers",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Small Businesses  Compete with confidence.",
+      "href": "https://www.nlproducts.net/solutions/small-business",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Resellers  Sell more, faster.",
+      "href": "https://www.nlproducts.net/solutions/resellers",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item resellers ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Teaming Partners  Find the right teams.",
+      "href": "https://www.nlproducts.net/solutions/teaming-partners",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Features",
+      "href": "https://www.nlproducts.net/features",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Market Intelligence  Know what's coming.",
+      "href": "https://www.nlproducts.net/features/market-intelligence",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Lead Prospector  Zero in on the right leads.",
+      "href": "https://www.nlproducts.net/features/lead-finder",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Business Development  Build better pipelines.",
+      "href": "https://www.nlproducts.net/features/business-development",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Teaming Partnerships  Find who you need.",
+      "href": "https://www.nlproducts.net/features/teaming-partnerships",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Pricing",
+      "href": "https://www.nlproducts.net/pricing",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle d-flex align-items-center ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Resources",
+      "href": "https://www.nlproducts.net/resources",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "All",
+      "href": "https://www.nlproducts.net/resources",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Blogs",
+      "href": "https://www.nlproducts.net/resources/blogs",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Case Studies",
+      "href": "https://www.nlproducts.net/resources/case-studies",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Downloads",
+      "href": "https://www.nlproducts.net/resources/downloadable-content",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item test-download-class ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Events",
+      "href": "https://www.nlproducts.net/resources/events",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Upcoming Webinars",
+      "href": "https://www.nlproducts.net/resources/webinars",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "About",
+      "href": "https://www.nlproducts.net/about-page-set",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Our Company",
+      "href": "https://www.nlproducts.net/about-us",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Become an affiliate",
+      "href": "https://www.nlproducts.net/affiliate-program",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Collaborate With Us",
+      "href": "https://www.nlproducts.net/collaboration-program",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contact Us",
+      "href": "https://www.nlproducts.net/contact",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Schedule A Demo",
+      "href": "https://www.nlproducts.net/schedule-demo",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Explore",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Awards",
+      "href": "https://www.nlproducts.net/data/awards",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Solicitations",
+      "href": "https://www.nlproducts.net/data/solicitations",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contracts",
+      "href": "https://www.nlproducts.net/data/contracts",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Vehicles",
+      "href": "https://www.nlproducts.net/data/vehicles",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Vendors",
+      "href": "https://www.nlproducts.net/data/vendors",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Agencies",
+      "href": "https://www.nlproducts.net/data/agencies",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Offices",
+      "href": "https://www.nlproducts.net/data/offices",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "People",
+      "href": "https://www.nlproducts.net/data/people",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Clause Library",
+      "href": "https://www.nlproducts.net/data/clauses",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Compare Clauses",
+      "href": "https://www.nlproducts.net/data/compare-clauses",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Wage Determination",
+      "href": "https://www.nlproducts.net/data/wage-determinations",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "NAICs",
+      "href": "https://www.nlproducts.net/data/naics",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "PSCs",
+      "href": "https://www.nlproducts.net/data/psc",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SINs",
+      "href": "https://www.nlproducts.net/sins",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SICs",
+      "href": "https://www.nlproducts.net/data/sic",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "RFx Notices",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SAM.GOV Leads",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Recompetes",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Opportunities",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Accounts",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contacts",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Partner Finder",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Opportunity Collaboration",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Deal Registrations",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Learn more about Premium",
+      "href": "https://www.nlproducts.net/pricing",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-primary",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "GovCon360",
+      "id": "",
+      "className": "custom-logo d-inline-flex align-items-center text-decoration-none",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Home",
+      "href": "https://www.nlproducts.net/home",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Solutions For",
+      "href": "https://www.nlproducts.net/solutions-for",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Business Developers",
+      "href": "https://www.nlproducts.net/solutions/business-developers",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Small Businesses",
+      "href": "https://www.nlproducts.net/solutions/small-business",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Resellers",
+      "href": "https://www.nlproducts.net/solutions/resellers",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Teaming Partners",
+      "href": "https://www.nlproducts.net/solutions/teaming-partners",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Features",
+      "href": "https://www.nlproducts.net/features",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Market Intelligence",
+      "href": "https://www.nlproducts.net/features/market-intelligence",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Lead Prospector",
+      "href": "https://www.nlproducts.net/features/lead-finder",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Business Development",
+      "href": "https://www.nlproducts.net/features/business-development",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Teaming Partnerships",
+      "href": "https://www.nlproducts.net/features/teaming-partnerships",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Pricing",
+      "href": "https://www.nlproducts.net/pricing",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Resources",
+      "href": "https://www.nlproducts.net/resources",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "All",
+      "href": "https://www.nlproducts.net/resources",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Blogs",
+      "href": "https://www.nlproducts.net/resources/blogs",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Case Studies",
+      "href": "https://www.nlproducts.net/resources/case-studies",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Downloads",
+      "href": "https://www.nlproducts.net/resources/downloadable-content",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Events",
+      "href": "https://www.nlproducts.net/resources/events",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Upcoming Webinars",
+      "href": "https://www.nlproducts.net/resources/webinars",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "About",
+      "href": "https://www.nlproducts.net/about-page-set",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Our Company",
+      "href": "https://www.nlproducts.net/about-us",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Become an affiliate",
+      "href": "https://www.nlproducts.net/affiliate-program",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Collaborate With Us",
+      "href": "https://www.nlproducts.net/collaboration-program",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contact Us",
+      "href": "https://www.nlproducts.net/contact",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Schedule A Demo",
+      "href": "https://www.nlproducts.net/schedule-demo",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Awards",
+      "href": "https://www.nlproducts.net/data/awards",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Solicitations",
+      "href": "https://www.nlproducts.net/data/solicitations",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contracts",
+      "href": "https://www.nlproducts.net/data/contracts",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Vehicles",
+      "href": "https://www.nlproducts.net/data/vehicles",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Vendors",
+      "href": "https://www.nlproducts.net/data/vendors",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Agencies",
+      "href": "https://www.nlproducts.net/data/agencies",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Offices",
+      "href": "https://www.nlproducts.net/data/offices",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "People",
+      "href": "https://www.nlproducts.net/data/people",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Clause Library",
+      "href": "https://www.nlproducts.net/data/clauses",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Compare Clauses",
+      "href": "https://www.nlproducts.net/data/compare-clauses",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Wage Determination",
+      "href": "https://www.nlproducts.net/data/wage-determinations",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "NAICs",
+      "href": "https://www.nlproducts.net/data/naics",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "PSCs",
+      "href": "https://www.nlproducts.net/data/psc",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SINs",
+      "href": "https://www.nlproducts.net/sins",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SICs",
+      "href": "https://www.nlproducts.net/data/sic",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "RFx Notices",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SAM.GOV Leads",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Recompetes",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Opportunities",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Accounts",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contacts",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Partner Finder",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Opportunity Collaboration",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Deal Registrations",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Learn more about Premium",
+      "href": "https://www.nlproducts.net/pricing",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-primary",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "",
+      "href": "https://www.nlproducts.net/home#navigationBarCollapse00",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "hamburge-btn navbar-toggler",
+      "ariaLabel": "Toggle Navigation",
+      "role": "button"
+    },
+    {
+      "text": "",
+      "href": "https://www.nlproducts.net/schedule-demo",
+      "target": "",
+      "title": "",
+      "id": "header-cta-button",
+      "className": "btn btn-secondary",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Login",
+      "href": "https://platform.nlproducts.net/",
+      "target": "",
+      "title": "",
+      "id": "login-link-button",
+      "className": "btn btn-primary",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Home",
+      "href": "https://www.nlproducts.net/home",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle d-flex align-items-center ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Solutions For",
+      "href": "https://www.nlproducts.net/solutions-for",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Business Developers  Track what matters.",
+      "href": "https://www.nlproducts.net/solutions/business-developers",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Small Businesses  Compete with confidence.",
+      "href": "https://www.nlproducts.net/solutions/small-business",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Resellers  Sell more, faster.",
+      "href": "https://www.nlproducts.net/solutions/resellers",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item resellers ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Teaming Partners  Find the right teams.",
+      "href": "https://www.nlproducts.net/solutions/teaming-partners",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Features",
+      "href": "https://www.nlproducts.net/features",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Market Intelligence  Know what's coming.",
+      "href": "https://www.nlproducts.net/features/market-intelligence",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Lead Prospector  Zero in on the right leads.",
+      "href": "https://www.nlproducts.net/features/lead-finder",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Business Development  Build better pipelines.",
+      "href": "https://www.nlproducts.net/features/business-development",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Teaming Partnerships  Find who you need.",
+      "href": "https://www.nlproducts.net/features/teaming-partnerships",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Pricing",
+      "href": "https://www.nlproducts.net/pricing",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle d-flex align-items-center ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Resources",
+      "href": "https://www.nlproducts.net/resources",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "All",
+      "href": "https://www.nlproducts.net/resources",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Blogs",
+      "href": "https://www.nlproducts.net/resources/blogs",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Case Studies",
+      "href": "https://www.nlproducts.net/resources/case-studies",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Downloads",
+      "href": "https://www.nlproducts.net/resources/downloadable-content",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item test-download-class ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Events",
+      "href": "https://www.nlproducts.net/resources/events",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Upcoming Webinars",
+      "href": "https://www.nlproducts.net/resources/webinars",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "About",
+      "href": "https://www.nlproducts.net/about-page-set",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle d-flex align-items-center dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Our Company",
+      "href": "https://www.nlproducts.net/about-us",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Become an affiliate",
+      "href": "https://www.nlproducts.net/affiliate-program",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Collaborate With Us",
+      "href": "https://www.nlproducts.net/collaboration-program",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contact Us",
+      "href": "https://www.nlproducts.net/contact",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Schedule A Demo",
+      "href": "https://www.nlproducts.net/schedule-demo",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Explore",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Awards",
+      "href": "https://www.nlproducts.net/data/awards",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Solicitations",
+      "href": "https://www.nlproducts.net/data/solicitations",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contracts",
+      "href": "https://www.nlproducts.net/data/contracts",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Vehicles",
+      "href": "https://www.nlproducts.net/data/vehicles",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Vendors",
+      "href": "https://www.nlproducts.net/data/vendors",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Agencies",
+      "href": "https://www.nlproducts.net/data/agencies",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Offices",
+      "href": "https://www.nlproducts.net/data/offices",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "People",
+      "href": "https://www.nlproducts.net/data/people",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Clause Library",
+      "href": "https://www.nlproducts.net/data/clauses",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Compare Clauses",
+      "href": "https://www.nlproducts.net/data/compare-clauses",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Wage Determination",
+      "href": "https://www.nlproducts.net/data/wage-determinations",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "NAICs",
+      "href": "https://www.nlproducts.net/data/naics",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "PSCs",
+      "href": "https://www.nlproducts.net/data/psc",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SINs",
+      "href": "https://www.nlproducts.net/sins",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SICs",
+      "href": "https://www.nlproducts.net/data/sic",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "RFx Notices",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SAM.GOV Leads",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Recompetes",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Opportunities",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Accounts",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contacts",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Partner Finder",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Opportunity Collaboration",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Deal Registrations",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Learn more about Premium",
+      "href": "https://www.nlproducts.net/pricing",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-primary",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "GovCon360",
+      "id": "",
+      "className": "custom-logo d-inline-flex align-items-center text-decoration-none",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Home",
+      "href": "https://www.nlproducts.net/home",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Solutions For",
+      "href": "https://www.nlproducts.net/solutions-for",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Business Developers",
+      "href": "https://www.nlproducts.net/solutions/business-developers",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Small Businesses",
+      "href": "https://www.nlproducts.net/solutions/small-business",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Resellers",
+      "href": "https://www.nlproducts.net/solutions/resellers",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Teaming Partners",
+      "href": "https://www.nlproducts.net/solutions/teaming-partners",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Features",
+      "href": "https://www.nlproducts.net/features",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Market Intelligence",
+      "href": "https://www.nlproducts.net/features/market-intelligence",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Lead Prospector",
+      "href": "https://www.nlproducts.net/features/lead-finder",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Business Development",
+      "href": "https://www.nlproducts.net/features/business-development",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Teaming Partnerships",
+      "href": "https://www.nlproducts.net/features/teaming-partnerships",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Pricing",
+      "href": "https://www.nlproducts.net/pricing",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Resources",
+      "href": "https://www.nlproducts.net/resources",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "All",
+      "href": "https://www.nlproducts.net/resources",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Blogs",
+      "href": "https://www.nlproducts.net/resources/blogs",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Case Studies",
+      "href": "https://www.nlproducts.net/resources/case-studies",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Downloads",
+      "href": "https://www.nlproducts.net/resources/downloadable-content",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Events",
+      "href": "https://www.nlproducts.net/resources/events",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Upcoming Webinars",
+      "href": "https://www.nlproducts.net/resources/webinars",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "About",
+      "href": "https://www.nlproducts.net/about-page-set",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Our Company",
+      "href": "https://www.nlproducts.net/about-us",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Become an affiliate",
+      "href": "https://www.nlproducts.net/affiliate-program",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Collaborate With Us",
+      "href": "https://www.nlproducts.net/collaboration-program",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contact Us",
+      "href": "https://www.nlproducts.net/contact",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Schedule A Demo",
+      "href": "https://www.nlproducts.net/schedule-demo",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Awards",
+      "href": "https://www.nlproducts.net/data/awards",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Solicitations",
+      "href": "https://www.nlproducts.net/data/solicitations",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contracts",
+      "href": "https://www.nlproducts.net/data/contracts",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Vehicles",
+      "href": "https://www.nlproducts.net/data/vehicles",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Vendors",
+      "href": "https://www.nlproducts.net/data/vendors",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Agencies",
+      "href": "https://www.nlproducts.net/data/agencies",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Offices",
+      "href": "https://www.nlproducts.net/data/offices",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "People",
+      "href": "https://www.nlproducts.net/data/people",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Clause Library",
+      "href": "https://www.nlproducts.net/data/clauses",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Compare Clauses",
+      "href": "https://www.nlproducts.net/data/compare-clauses",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Wage Determination",
+      "href": "https://www.nlproducts.net/data/wage-determinations",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "NAICs",
+      "href": "https://www.nlproducts.net/data/naics",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "PSCs",
+      "href": "https://www.nlproducts.net/data/psc",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SINs",
+      "href": "https://www.nlproducts.net/sins",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SICs",
+      "href": "https://www.nlproducts.net/data/sic",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "RFx Notices",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SAM.GOV Leads",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Recompetes",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Opportunities",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Accounts",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contacts",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Partner Finder",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Opportunity Collaboration",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Deal Registrations",
+      "href": "https://www.nlproducts.net/home#",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Learn more about Premium",
+      "href": "https://www.nlproducts.net/pricing",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-primary",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Schedule a Demo",
+      "href": "https://www.nlproducts.net/schedule-demo",
+      "target": "",
+      "title": "",
+      "id": "sampleProduct",
+      "className": "btn btn-secondary",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Market intelligence details -->",
+      "href": "https://www.nlproducts.net/features/market-intelligence",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-link",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Lead prospector details -->",
+      "href": "https://www.nlproducts.net/features/lead-finder",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-link",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Business development details -->",
+      "href": "https://www.nlproducts.net/features/business-development",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-link",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Teaming partnerships details -->",
+      "href": "https://www.nlproducts.net/features/teaming-partnerships",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-link",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "How we help small businesses -->",
+      "href": "https://www.nlproducts.net/solutions/small-business",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-link",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "How we help BDs -->",
+      "href": "https://www.nlproducts.net/solutions/business-developers",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-link",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "How we help resellers -->",
+      "href": "https://www.nlproducts.net/solutions/resellers",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-link",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "How we help with partnerships -->",
+      "href": "https://www.nlproducts.net/solutions/teaming-partners",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-link",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Schedule a Demo",
+      "href": "https://www.nlproducts.net/schedule-demo",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-primary",
+      "ariaLabel": null,
+      "role": null
+    }
+  ],
+  "clickableElements": [
+    {
+      "tag": "button",
+      "text": "Open Accessibility Menu",
+      "type": "submit",
+      "title": "",
+      "id": "dmkc_amfr",
+      "className": "d-block p-2 sr-only sr-only-focusable text-reset btn btn-link btn-unstyled text-nowrap",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "type": "submit",
+      "title": "",
+      "id": "cookie-floating-trigger",
+      "className": "persistent-trigger cookie-trigger",
+      "ariaLabel": "Cookie Settings",
+      "role": null
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "type": "submit",
+      "title": "",
+      "id": "accessibility-floating-trigger",
+      "className": "persistent-trigger accessibility-trigger",
+      "ariaLabel": "Accessibility Settings",
+      "role": null
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "type": "button",
+      "title": "",
+      "id": "",
+      "className": "navbar-toggler",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "button",
+      "text": "✕",
+      "type": "submit",
+      "title": "",
+      "id": "",
+      "className": "close-menu",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "type": "",
+      "title": "",
+      "id": "",
+      "className": "hamburge-btn navbar-toggler",
+      "ariaLabel": "Toggle Navigation",
+      "role": "button"
+    },
+    {
+      "tag": "button",
+      "text": "",
+      "type": "button",
+      "title": "",
+      "id": "",
+      "className": "navbar-toggler",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "button",
+      "text": "✕",
+      "type": "submit",
+      "title": "",
+      "id": "",
+      "className": "close-menu",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "button",
+      "text": "Hidden",
+      "type": "submit",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "button",
+      "text": "Customize",
+      "type": "button",
+      "title": "",
+      "id": "_com_liferay_cookies_banner_web_portlet_CookiesBannerPortlet_configurationButton",
+      "className": "btn btn-sm btn-secondary",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "button",
+      "text": "Reject all",
+      "type": "button",
+      "title": "",
+      "id": "_com_liferay_cookies_banner_web_portlet_CookiesBannerPortlet_declineAllButton",
+      "className": "btn btn-sm btn-secondary",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "button",
+      "text": "Accept all",
+      "type": "button",
+      "title": "",
+      "id": "_com_liferay_cookies_banner_web_portlet_CookiesBannerPortlet_acceptAllButton",
+      "className": "btn btn-sm btn-primary",
+      "ariaLabel": null,
+      "role": null
+    }
+  ],
+  "forms": [
+    {
+      "formNumber": 1,
+      "action": "https://www.nlproducts.net/home#",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "",
+          "id": "",
+          "placeholder": "",
+          "value": "",
+          "className": "",
+          "ariaLabel": null,
+          "role": null
+        }
+      ]
+    }
+  ],
+  "inputs": [],
+  "images": [
+    {
+      "src": "https://www.nlproducts.net/documents/36993/38332/govcon360-logo.svg/e34736e6-af77-8967-1cd1-e561991384da?version=1.0&t=1794897849290",
+      "alt": "logo",
+      "title": "",
+      "width": 192,
+      "height": 42,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/market_intel",
+      "alt": "market intelligence icon ",
+      "title": "",
+      "width": 376,
+      "height": 352,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/reference_tools",
+      "alt": "reference tool icon",
+      "title": "",
+      "width": 497,
+      "height": 471,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/unlock",
+      "alt": "unlock lcon",
+      "title": "",
+      "width": 442,
+      "height": 506,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/lead_finder",
+      "alt": "lead finder icon",
+      "title": "",
+      "width": 497,
+      "height": 455,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/business_development",
+      "alt": "business development icon",
+      "title": "",
+      "width": 476,
+      "height": 501,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/teaming_partnerships",
+      "alt": "teaming partner icon",
+      "title": "",
+      "width": 544,
+      "height": 352,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/image/layout_set_logo?img_id=2288531&t=1775734771243",
+      "alt": "Company Logo",
+      "title": "",
+      "width": 112,
+      "height": 112,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/market_intel",
+      "alt": "market intelligence icon ",
+      "title": "",
+      "width": 376,
+      "height": 352,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/reference_tools",
+      "alt": "reference tool icon",
+      "title": "",
+      "width": 497,
+      "height": 471,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/unlock",
+      "alt": "unlock lcon",
+      "title": "",
+      "width": 442,
+      "height": 506,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/lead_finder",
+      "alt": "lead finder icon",
+      "title": "",
+      "width": 497,
+      "height": 455,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/business_development",
+      "alt": "business development icon",
+      "title": "",
+      "width": 476,
+      "height": 501,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/teaming_partnerships",
+      "alt": "teaming partner icon",
+      "title": "",
+      "width": 544,
+      "height": 352,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/market_intel",
+      "alt": "market intelligence icon ",
+      "title": "",
+      "width": 376,
+      "height": 352,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/reference_tools",
+      "alt": "reference tool icon",
+      "title": "",
+      "width": 497,
+      "height": 471,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/unlock",
+      "alt": "unlock lcon",
+      "title": "",
+      "width": 442,
+      "height": 506,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/lead_finder",
+      "alt": "lead finder icon",
+      "title": "",
+      "width": 497,
+      "height": 455,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/business_development",
+      "alt": "business development icon",
+      "title": "",
+      "width": 476,
+      "height": 501,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/teaming_partnerships",
+      "alt": "teaming partner icon",
+      "title": "",
+      "width": 544,
+      "height": 352,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/image/layout_set_logo?img_id=2288531&t=1775734771243",
+      "alt": "Company Logo",
+      "title": "",
+      "width": 112,
+      "height": 112,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/market_intel",
+      "alt": "market intelligence icon ",
+      "title": "",
+      "width": 376,
+      "height": 352,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/reference_tools",
+      "alt": "reference tool icon",
+      "title": "",
+      "width": 497,
+      "height": 471,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/unlock",
+      "alt": "unlock lcon",
+      "title": "",
+      "width": 442,
+      "height": 506,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/lead_finder",
+      "alt": "lead finder icon",
+      "title": "",
+      "width": 497,
+      "height": 455,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/business_development",
+      "alt": "business development icon",
+      "title": "",
+      "width": 476,
+      "height": 501,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/d/govcon-360-public-site/teaming_partnerships",
+      "alt": "teaming partner icon",
+      "title": "",
+      "width": 544,
+      "height": 352,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/36993/37852/blue_bg.webp/a5c7742c-d503-1688-2c1e-914e26040e0d?version=1.0&t=1784029933802",
+      "alt": "bg banner",
+      "title": "",
+      "width": 1440,
+      "height": 490,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/36993/37852/rocket.webp/fe9997c4-7451-a1b6-2ae1-de4af735d28b?version=1.0&t=1784897163953",
+      "alt": "",
+      "title": "",
+      "width": 500,
+      "height": 392,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/36993/37852/market_intel.webp/2867773c-453a-78ae-1743-a596303b7817?version=1.0&t=1784897181115",
+      "alt": "",
+      "title": "",
+      "width": 376,
+      "height": 352,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/36993/37852/lead_finder.webp/5f5eb62a-6c3c-030f-3391-eb5f49365ecf?version=1.0&t=1784897225221",
+      "alt": "",
+      "title": "",
+      "width": 497,
+      "height": 455,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/36993/37852/business_development.webp/e51f84f9-91ad-982f-4992-965229e9556a?version=1.0&t=1784897201062",
+      "alt": "",
+      "title": "",
+      "width": 476,
+      "height": 501,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/36993/37852/teaming_partnerships.webp/c44ad47b-1af1-c137-95e5-60c4fff8d66d?version=1.0&t=1784897265703",
+      "alt": "",
+      "title": "",
+      "width": 544,
+      "height": 352,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/36993/37852/who_ite_for.webp/cc3c599b-99a6-c725-cf95-1d377a28825e?version=1.0&t=1784052763591",
+      "alt": "Screenshot of the GovCon360 dashboard interface",
+      "title": "",
+      "width": 573,
+      "height": 478,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/36993/37852/blue_bg.webp/a5c7742c-d503-1688-2c1e-914e26040e0d?version=1.0&t=1784029933802",
+      "alt": "",
+      "title": "",
+      "width": 1440,
+      "height": 490,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/36993/37852/lock.webp/ffc7a411-5ca1-e0b3-dbf4-953caee13a22?version=1.0&t=1784897865623",
+      "alt": "",
+      "title": "",
+      "width": 320,
+      "height": 500,
+      "loading": "auto"
+    },
+    {
+      "src": "https://www.nlproducts.net/documents/36993/37852/rocket.webp/fe9997c4-7451-a1b6-2ae1-de4af735d28b?version=1.0&t=1784897163953",
+      "alt": "",
+      "title": "",
+      "width": 500,
+      "height": 392,
+      "loading": "auto"
+    }
+  ],
+  "tables": [],
+  "accessibility": {
+    "landmarks": [
+      {
+        "tag": "nav",
+        "role": null,
+        "ariaLabel": "Quick Links"
+      },
+      {
+        "tag": "header",
+        "role": null,
+        "ariaLabel": null
+      },
+      {
+        "tag": "nav",
+        "role": null,
+        "ariaLabel": null
+      },
+      {
+        "tag": "a",
+        "role": "button",
+        "ariaLabel": "Toggle Navigation"
+      },
+      {
+        "tag": "nav",
+        "role": null,
+        "ariaLabel": null
+      },
+      {
+        "tag": "div",
+        "role": "main",
+        "ariaLabel": null
+      },
+      {
+        "tag": "div",
+        "role": "dialog",
+        "ariaLabel": "banner cookies"
+      }
+    ],
+    "elementsWithoutAlt": 0,
+    "buttonsWithoutLabel": 2
+  },
+  "structuredData": [],
+  "httpStatus": 200,
+  "crawledAt": "2026-11-19T04:58:25.355Z",
+  "screenshot": "screenshot.png"
+}

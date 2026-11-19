@@ -1,0 +1,35 @@
+
+{
+  "website": {
+    "name": "GovCon360",
+    "startUrl": "https://www.nlproducts.net/"
+  },
+  "auth": {
+    "enabled": false,
+    "loginUrl": "",
+    "usernameSelector": "#username",
+    "passwordSelector": "#password",
+    "submitSelector": "#kc-login",
+    "successUrl": ""
+  },
+  "browser": {
+    "headless": true,
+    "width": 1440,
+    "height": 900
+  },
+    "crawler": {
+    "waitTime": 1500,
+    "delayBetweenPages": 500,
+    "timeout": 60000,
+    "waitUntil": "networkidle",
+    "sameDomainOnly": true,
+    "removeQueryParameters": true
+  },
+  "output": {
+    "folder": "output",
+    "saveIndividualJson": true,
+    "saveScreenshots": true,
+    "saveSummary": true,
+    "fullPageScreenshot": true
+  }
+}
