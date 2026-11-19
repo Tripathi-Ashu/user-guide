@@ -1,0 +1,1672 @@
+{
+  "pageTitle": "Portal Terminology - Asponte Technology Inc",
+  "pageUrl": "https://asponte-stg.nlproducts.net/portal-terminology",
+  "pageLanguage": "en-US",
+  "pageCharset": "UTF-8",
+  "pageDescription": "Skip to Main Content\nAsponte Technology Inc\n(UEI: HYPCPMX1HCR9)\n10\nCY\nDashboard\nMarket Intel\nLead Prospector\nBusiness Development\nTeaming Partnerships\nProposals\nContracts\nAdministration\nPortal Terminology\nSearchable reference for key portal terms, business concepts, and system terminology.\nShowing 1 to 20 of 177 entries\n1\n2\n...\n9\nPortal Term\n\t\nDefinition\n\t\nExample / Usage\n\n\n\t\n\t\nInactive\n\t\nIndicates that a record, user, configuration, or process is no longer active or available for use.\n\t\nAn inactive contact is no longer used for current business activities.\n\n\nContract\n\t\nA legally binding agreement between parties defining terms, obligations, deliverables, and other conditions.\n\t\nA awarded government contract is stored and tracked in the portal.\n\n\nIntegration\n\t\nA connection between the portal and another application or external data source.\n\t\nThe portal integrates with an external government data source.\n\n\nAuthentication Provider\n\t\nExternal or internal service responsible for verifying user identity.\n\t\nAn organization's identity provider authenticates portal users.\n\n\nDashboard Metric\n\t\nA numerical or calculated value displayed on a dashboard.\n\t\nTotal Open Opportunities is a dashboard metric.\n\n\nAuthorization\n\t\nThe process of determining what an authenticated user is allowed to access or perform.\n\t\nAfter login, the system determines which modules the user can access.\n\n\nClose Date\n\t\nThe expected date on which an opportunity is expected to be won, lost, or otherwise concluded.\n\t\nThe expected award date is entered as the close date.\n\n\nAudit Trail\n\t\nHistorical record of changes or actions performed on a record or within the system.\n\t\nThe audit trail shows who changed an opportunity status and when.\n\n\nNon-Functional Requirement\n\t\nRequirement describing qualities or constraints such as performance, security, or availability.\n\t\nThe portal must meet defined response-time requirements.\n\n\nMaster Data\n\t\nCore business information shared or referenced across multiple processes or systems.\n\t\nAccount and customer information may be treated as master data.\n\n\nFunctional Requirement\n\t\nRequirement describing what the system should do.\n\t\nThe portal must allow users to create and edit opportunities.\n\n\nApproval Matrix\n\t\nRules defining who must approve a transaction or request based on specific conditions.\n\t\nHigh-value opportunities require multiple levels of approval.\n\n\nLead\n\t\nA potential business prospect that may be qualified for further engagement.\n\t\nA newly identified company is entered as a lead for follow-up.\n\n\nAccount\n\t\nAn organization or company represented in the portal.\n\t\nA government agency or commercial customer can be maintained as an account.\n\n\nWrite Access\n\t\nPermission allowing a user to create or modify information.\n\t\nA manager has write access to opportunity records.\n\n\nSupport Ticket\n\t\nA formal record used to track a reported problem, request, or service inquiry.\n\t\nA user creates a support ticket for a login problem.\n\n\nCreated Date\n\t\nDate and time when a record was created.\n\t\nThe Created Date indicates when an opportunity entered the system.\n\n\nRFI\n\t\nRequest for Information; a government request used to gather information from industry before a potential procurement.\n\t\nA company responds to an RFI to demonstrate its capabilities.\n\n\nChange Request\n\t\nFormal request to modify functionality, configuration, data, or system behavior.\n\t\nA business user submits a change request for a new field.\n\n\nTarget System\n\t\nSystem receiving data from another application or source.\n\t\nThe portal can act as the target system during data import.\nShow: \n20\n40\n60\n80\n100\n Entries\nJump To:\nGo\n1\n2\n...\n9",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "seo": {
+    "title": "Portal Terminology - Asponte Technology Inc",
+    "description": "",
+    "keywords": "",
+    "author": "",
+    "canonical": "",
+    "robots": "",
+    "openGraph": [],
+    "twitter": []
+  },
+  "headings": {
+    "h1": [
+      "Portal Terminology"
+    ],
+    "h2": [],
+    "h3": [
+      "Notifications"
+    ],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "paragraphs": [
+    "Craig Yerger"
+  ],
+  "navigation": [
+    {
+      "text": "Skip to Main Content",
+      "links": [
+        {
+          "text": "Skip to Main Content",
+          "href": "https://asponte-stg.nlproducts.net/portal-terminology#main-content",
+          "id": "",
+          "className": "d-block p-2 sr-only sr-only-focusable text-reset",
+          "ariaLabel": null,
+          "role": null
+        }
+      ]
+    },
+    {
+      "text": "Dashboard\n Market Intel\n Lead Prospector\n Business Development\n Teaming Partnerships\n Proposals\n Contracts\n Administration",
+      "links": [
+        {
+          "text": "Dashboard",
+          "href": "https://asponte-stg.nlproducts.net/dashboard",
+          "id": "",
+          "className": "nav-link ",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Market Intel",
+          "href": "javascript:void(0)",
+          "id": "navbarDropdown",
+          "className": "nav-link dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Awards",
+          "href": "https://asponte-stg.nlproducts.net/data/awards",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Solicitations",
+          "href": "https://asponte-stg.nlproducts.net/data/solicitations",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Contracts",
+          "href": "https://asponte-stg.nlproducts.net/data/contracts",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Vehicles",
+          "href": "https://asponte-stg.nlproducts.net/data/vehicles",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Vendors",
+          "href": "https://asponte-stg.nlproducts.net/data/vendors",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Agencies",
+          "href": "https://asponte-stg.nlproducts.net/data/agencies",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Offices",
+          "href": "https://asponte-stg.nlproducts.net/data/offices",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "People",
+          "href": "https://asponte-stg.nlproducts.net/people",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Lead Prospector",
+          "href": "https://asponte-stg.nlproducts.net/capture-set",
+          "id": "",
+          "className": "nav-link dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Lead Workspace",
+          "href": "https://asponte-stg.nlproducts.net/lead-workspace",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Find & Nurture",
+          "href": "https://asponte-stg.nlproducts.net/find-and-nurture",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Procurement Notices",
+          "href": "https://asponte-stg.nlproducts.net/procurement-notices",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "SAM.GOV Leads",
+          "href": "https://asponte-stg.nlproducts.net/sam.gov-leads",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Re-Competes",
+          "href": "https://asponte-stg.nlproducts.net/recompetes",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Business Development",
+          "href": "https://asponte-stg.nlproducts.net/business-development",
+          "id": "",
+          "className": "nav-link dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Opportunities",
+          "href": "https://asponte-stg.nlproducts.net/opportunities",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Accounts",
+          "href": "https://asponte-stg.nlproducts.net/accounts",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Contacts",
+          "href": "https://asponte-stg.nlproducts.net/contacts",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Teaming Partnerships",
+          "href": "https://asponte-stg.nlproducts.net/teaming-partnerships",
+          "id": "",
+          "className": "nav-link dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "My Partners",
+          "href": "https://asponte-stg.nlproducts.net/my-partners",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Partner Finder",
+          "href": "https://asponte-stg.nlproducts.net/partner-finder",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Deal Registrations",
+          "href": "https://asponte-stg.nlproducts.net/deal-registrations",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Proposals",
+          "href": "https://asponte-stg.nlproducts.net/proposals-1",
+          "id": "",
+          "className": "nav-link dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Proposals",
+          "href": "https://asponte-stg.nlproducts.net/proposals-1",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "RFP Questionnaire",
+          "href": "https://asponte-stg.nlproducts.net/rfp-questionnaire",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Contracts",
+          "href": "https://asponte-stg.nlproducts.net/contracts",
+          "id": "",
+          "className": "nav-link dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Contracts",
+          "href": "https://asponte-stg.nlproducts.net/contracts",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Ingest Contract",
+          "href": "https://asponte-stg.nlproducts.net/ingest-contract",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Clause Library",
+          "href": "https://asponte-stg.nlproducts.net/data/clauses",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Wage Determination",
+          "href": "https://asponte-stg.nlproducts.net/data/wage-determinations",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Administration",
+          "href": "https://asponte-stg.nlproducts.net/my-govcon360",
+          "id": "",
+          "className": "nav-link dropdown-toggle",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "User Management",
+          "href": "https://asponte-stg.nlproducts.net/users",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Company Information",
+          "href": "https://asponte-stg.nlproducts.net/company-information",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        },
+        {
+          "text": "Saved Filter",
+          "href": "https://asponte-stg.nlproducts.net/saved-filters",
+          "id": "",
+          "className": "dropdown-item",
+          "ariaLabel": null,
+          "role": null
+        }
+      ]
+    },
+    {
+      "text": "1\n2\n...\n9",
+      "links": [
+        {
+          "text": "1",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to page, 1",
+          "role": null
+        },
+        {
+          "text": "2",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to page, 2",
+          "role": null
+        },
+        {
+          "text": "9",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to page, 9",
+          "role": null
+        },
+        {
+          "text": "",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to the next page, 2",
+          "role": "button"
+        },
+        {
+          "text": "",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to last page",
+          "role": "button"
+        }
+      ]
+    },
+    {
+      "text": "1\n2\n...\n9",
+      "links": [
+        {
+          "text": "1",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to page, 1",
+          "role": null
+        },
+        {
+          "text": "2",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to page, 2",
+          "role": null
+        },
+        {
+          "text": "9",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to page, 9",
+          "role": null
+        },
+        {
+          "text": "",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to the next page, 2",
+          "role": "button"
+        },
+        {
+          "text": "",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to last page",
+          "role": "button"
+        }
+      ]
+    },
+    {
+      "text": "1\n2\n...\n9",
+      "links": [
+        {
+          "text": "1",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to page, 1",
+          "role": null
+        },
+        {
+          "text": "2",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to page, 2",
+          "role": null
+        },
+        {
+          "text": "9",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to page, 9",
+          "role": null
+        },
+        {
+          "text": "",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to the next page, 2",
+          "role": "button"
+        },
+        {
+          "text": "",
+          "href": "",
+          "id": "",
+          "className": "page-link",
+          "ariaLabel": "Go to last page",
+          "role": "button"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "sectionNumber": 1,
+      "tag": "section",
+      "heading": "",
+      "text": "Showing 1 to 20 of 177 entries\n1\n2\n...\n9\nPortal Term\n\t\nDefinition\n\t\nExample / Usage\n\n\n\t\n\t\nInactive\n\t\nIndicates that a record, user, configuration, or process is no longer active or available for use.\n\t\nAn inactive contact is no longer used for current business activities.\n\n\nContract\n\t\nA legally binding agreement between parties defining terms, obligations, deliverables, and other conditions.\n\t\nA awarded government contract is stored and tracked in the portal.\n\n\nIntegration\n\t\nA connection between the portal and another application or external data source.\n\t\nThe portal integrates with an external government data source.\n\n\nAuthentication Provider\n\t\nExternal or internal service responsible for verifying user identity.\n\t\nAn organization's identity provider authenticates portal users.\n\n\nDashboard Metric\n\t\nA numerical or calculated value displayed on a dashboard.\n\t\nTotal Open Opportunities is a dashboard metric.\n\n\nAuthorization\n\t\nThe process of determining what an authenticated user is allowed to access or perform.\n\t\nAfter login, the system determines which modules the user can access.\n\n\nClose Date\n\t\nThe expected date on which an opportunity is expected to be won, lost, or otherwise concluded.\n\t\nThe expected award date is entered as the close date.\n\n\nAudit Trail\n\t\nHistorical record of changes or actions performed on a record or within the system.\n\t\nThe audit trail shows who changed an opportunity status and when.\n\n\nNon-Functional Requirement\n\t\nRequirement describing qualities or constraints such as performance, security, or availability.\n\t\nThe portal must meet defined response-time requirements.\n\n\nMaster Data\n\t\nCore business information shared or referenced across multiple processes or systems.\n\t\nAccount and customer information may be treated as master data.\n\n\nFunctional Requirement\n\t\nRequirement describing what the system should do.\n\t\nThe portal must allow users to create and edit opportunities.\n\n\nApproval Matrix\n\t\nRules defining who must approve a transaction or request based on specific conditions.\n\t\nHigh-value opportunities require multiple levels of approval.\n\n\nLead\n\t\nA potential business prospect that may be qualified for further engagement.\n\t\nA newly identified company is entered as a lead for follow-up.\n\n\nAccount\n\t\nAn organization or company represented in the portal.\n\t\nA government agency or commercial customer can be maintained as an account.\n\n\nWrite Access\n\t\nPermission allowing a user to create or modify information.\n\t\nA manager has write access to opportunity records.\n\n\nSupport Ticket\n\t\nA formal record used to track a reported problem, request, or service inquiry.\n\t\nA user creates a support ticket for a login problem.\n\n\nCreated Date\n\t\nDate and time when a record was created.\n\t\nThe Created Date indicates when an opportunity entered the system.\n\n\nRFI\n\t\nRequest for Information; a government request used to gather information from industry before a potential procurement.\n\t\nA company responds to an RFI to demonstrate its capabilities.\n\n\nChange Request\n\t\nFormal request to modify functionality, configuration, data, or system behavior.\n\t\nA business user submits a change request for a new field.\n\n\nTarget System\n\t\nSystem receiving data from another application or source.\n\t\nThe portal can act as the target system during data import.\nShow: \n20\n40\n60\n80\n100\n Entries\nJump To:\nGo\n1\n2\n...\n9",
+      "id": "",
+      "className": "section gray_bg",
+      "ariaLabel": "Results",
+      "role": null
+    }
+  ],
+  "links": [
+    {
+      "text": "Skip to Main Content",
+      "href": "https://asponte-stg.nlproducts.net/portal-terminology#main-content",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "d-block p-2 sr-only sr-only-focusable text-reset",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "",
+      "href": "https://asponte-stg.nlproducts.net/portal-terminology#",
+      "target": "",
+      "title": "GovCon360",
+      "id": "",
+      "className": "custom-logo",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "",
+      "href": "https://asponte-stg.nlproducts.net/portal-terminology#navigationBarCollapse00",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "hamburge-btn navbar-toggler",
+      "ariaLabel": "Toggle Navigation",
+      "role": "button"
+    },
+    {
+      "text": "View All",
+      "href": "https://asponte-stg.nlproducts.net/notifications",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "btn btn-secondary w-100",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "User Profile",
+      "href": "https://asponte-stg.nlproducts.net/users?view=profile",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Change Password",
+      "href": "https://asponte-stg.nlproducts.net/reset-password",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Logout",
+      "href": "https://asponte-stg.nlproducts.net/c/portal/logout",
+      "target": "",
+      "title": "",
+      "id": "login-link-button",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Dashboard",
+      "href": "https://asponte-stg.nlproducts.net/dashboard",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link ",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Market Intel",
+      "href": "javascript:void(0)",
+      "target": "",
+      "title": "",
+      "id": "navbarDropdown",
+      "className": "nav-link dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Awards",
+      "href": "https://asponte-stg.nlproducts.net/data/awards",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Solicitations",
+      "href": "https://asponte-stg.nlproducts.net/data/solicitations",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contracts",
+      "href": "https://asponte-stg.nlproducts.net/data/contracts",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Vehicles",
+      "href": "https://asponte-stg.nlproducts.net/data/vehicles",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Vendors",
+      "href": "https://asponte-stg.nlproducts.net/data/vendors",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Agencies",
+      "href": "https://asponte-stg.nlproducts.net/data/agencies",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Offices",
+      "href": "https://asponte-stg.nlproducts.net/data/offices",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "People",
+      "href": "https://asponte-stg.nlproducts.net/people",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Lead Prospector",
+      "href": "https://asponte-stg.nlproducts.net/capture-set",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Lead Workspace",
+      "href": "https://asponte-stg.nlproducts.net/lead-workspace",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Find & Nurture",
+      "href": "https://asponte-stg.nlproducts.net/find-and-nurture",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Procurement Notices",
+      "href": "https://asponte-stg.nlproducts.net/procurement-notices",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SAM.GOV Leads",
+      "href": "https://asponte-stg.nlproducts.net/sam.gov-leads",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Re-Competes",
+      "href": "https://asponte-stg.nlproducts.net/recompetes",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Business Development",
+      "href": "https://asponte-stg.nlproducts.net/business-development",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Opportunities",
+      "href": "https://asponte-stg.nlproducts.net/opportunities",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Accounts",
+      "href": "https://asponte-stg.nlproducts.net/accounts",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contacts",
+      "href": "https://asponte-stg.nlproducts.net/contacts",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Teaming Partnerships",
+      "href": "https://asponte-stg.nlproducts.net/teaming-partnerships",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "My Partners",
+      "href": "https://asponte-stg.nlproducts.net/my-partners",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Partner Finder",
+      "href": "https://asponte-stg.nlproducts.net/partner-finder",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Deal Registrations",
+      "href": "https://asponte-stg.nlproducts.net/deal-registrations",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Proposals",
+      "href": "https://asponte-stg.nlproducts.net/proposals-1",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Proposals",
+      "href": "https://asponte-stg.nlproducts.net/proposals-1",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "RFP Questionnaire",
+      "href": "https://asponte-stg.nlproducts.net/rfp-questionnaire",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contracts",
+      "href": "https://asponte-stg.nlproducts.net/contracts",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Contracts",
+      "href": "https://asponte-stg.nlproducts.net/contracts",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Ingest Contract",
+      "href": "https://asponte-stg.nlproducts.net/ingest-contract",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Clause Library",
+      "href": "https://asponte-stg.nlproducts.net/data/clauses",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Wage Determination",
+      "href": "https://asponte-stg.nlproducts.net/data/wage-determinations",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Administration",
+      "href": "https://asponte-stg.nlproducts.net/my-govcon360",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "nav-link dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "User Management",
+      "href": "https://asponte-stg.nlproducts.net/users",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Company Information",
+      "href": "https://asponte-stg.nlproducts.net/company-information",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Saved Filter",
+      "href": "https://asponte-stg.nlproducts.net/saved-filters",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "",
+      "href": "https://asponte-stg.nlproducts.net/downloads",
+      "target": "",
+      "title": "Download/Exports",
+      "id": "",
+      "className": "web-download-04 icon",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "",
+      "href": "javascript:void(0)",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "web-message-question-circle icon dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "User Feedback",
+      "href": "https://asponte-stg.nlproducts.net/contact-us",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Glossary",
+      "href": "https://asponte-stg.nlproducts.net/glossary",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "NAICs",
+      "href": "https://asponte-stg.nlproducts.net/naics",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "PSCs",
+      "href": "https://asponte-stg.nlproducts.net/pscs",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SINs",
+      "href": "https://asponte-stg.nlproducts.net/sins",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "SICs",
+      "href": "https://asponte-stg.nlproducts.net/sics",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "Portal Terminology",
+      "href": "https://asponte-stg.nlproducts.net/portal-terminology",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "dropdown-item",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "text": "1",
+      "href": "",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to page, 1",
+      "role": null
+    },
+    {
+      "text": "2",
+      "href": "",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to page, 2",
+      "role": null
+    },
+    {
+      "text": "9",
+      "href": "",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to page, 9",
+      "role": null
+    },
+    {
+      "text": "",
+      "href": "",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to the next page, 2",
+      "role": "button"
+    },
+    {
+      "text": "",
+      "href": "",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to last page",
+      "role": "button"
+    },
+    {
+      "text": "1",
+      "href": "",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to page, 1",
+      "role": null
+    },
+    {
+      "text": "2",
+      "href": "",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to page, 2",
+      "role": null
+    },
+    {
+      "text": "9",
+      "href": "",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to page, 9",
+      "role": null
+    },
+    {
+      "text": "",
+      "href": "",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to the next page, 2",
+      "role": "button"
+    },
+    {
+      "text": "",
+      "href": "",
+      "target": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to last page",
+      "role": "button"
+    }
+  ],
+  "clickableElements": [
+    {
+      "tag": "a",
+      "text": "",
+      "type": "",
+      "title": "",
+      "id": "",
+      "className": "hamburge-btn navbar-toggler",
+      "ariaLabel": "Toggle Navigation",
+      "role": "button"
+    },
+    {
+      "tag": "button",
+      "text": "10",
+      "type": "submit",
+      "title": "",
+      "id": "notifications",
+      "className": "dropdown-toggle",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "button",
+      "text": "CY",
+      "type": "button",
+      "title": "",
+      "id": "profileDropdown",
+      "className": "dropdown-toggle",
+      "ariaLabel": null,
+      "role": "button"
+    },
+    {
+      "tag": "button",
+      "text": "...",
+      "type": "button",
+      "title": "More",
+      "id": "",
+      "className": "dropdown-toggle page-link btn btn-unstyled",
+      "ariaLabel": "More",
+      "role": null
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "type": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to the next page, 2",
+      "role": "button"
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "type": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to last page",
+      "role": "button"
+    },
+    {
+      "tag": "span",
+      "text": "",
+      "type": "",
+      "title": "",
+      "id": "",
+      "className": "dt-column-order",
+      "ariaLabel": "Portal Term: Activate to sort",
+      "role": "button"
+    },
+    {
+      "tag": "span",
+      "text": "",
+      "type": "",
+      "title": "",
+      "id": "",
+      "className": "dt-column-order",
+      "ariaLabel": "Definition: Activate to sort",
+      "role": "button"
+    },
+    {
+      "tag": "span",
+      "text": "",
+      "type": "",
+      "title": "",
+      "id": "",
+      "className": "dt-column-order",
+      "ariaLabel": "Example / Usage: Activate to sort",
+      "role": "button"
+    },
+    {
+      "tag": "button",
+      "text": "Go",
+      "type": "button",
+      "title": "",
+      "id": "awardsTable-jump-btn-bottom",
+      "className": "input-group-text",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "button",
+      "text": "...",
+      "type": "button",
+      "title": "More",
+      "id": "",
+      "className": "dropdown-toggle page-link btn btn-unstyled",
+      "ariaLabel": "More",
+      "role": null
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "type": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to the next page, 2",
+      "role": "button"
+    },
+    {
+      "tag": "a",
+      "text": "",
+      "type": "",
+      "title": "",
+      "id": "",
+      "className": "page-link",
+      "ariaLabel": "Go to last page",
+      "role": "button"
+    },
+    {
+      "tag": "button",
+      "text": "Hidden",
+      "type": "submit",
+      "title": "",
+      "id": "",
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    }
+  ],
+  "forms": [
+    {
+      "formNumber": 1,
+      "action": "https://asponte-stg.nlproducts.net/portal-terminology#",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "",
+          "id": "",
+          "placeholder": "",
+          "value": "",
+          "className": "",
+          "ariaLabel": null,
+          "role": null
+        }
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "tag": "input",
+      "type": "hidden",
+      "name": "",
+      "id": "token",
+      "placeholder": "",
+      "required": false,
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "input",
+      "type": "hidden",
+      "name": "",
+      "id": "govcon360-group-id",
+      "placeholder": "",
+      "required": false,
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "placeholder": "Search Portal Term",
+      "required": false,
+      "className": "form-control govcon-column-filter-input",
+      "ariaLabel": "Search Portal Term",
+      "role": null
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "placeholder": "Search Definition",
+      "required": false,
+      "className": "form-control govcon-column-filter-input",
+      "ariaLabel": "Search Definition",
+      "role": null
+    },
+    {
+      "tag": "input",
+      "type": "text",
+      "name": "",
+      "id": "",
+      "placeholder": "Search Example / Usage",
+      "required": false,
+      "className": "form-control govcon-column-filter-input",
+      "ariaLabel": "Search Example / Usage",
+      "role": null
+    },
+    {
+      "tag": "select",
+      "type": "select-one",
+      "name": "",
+      "id": "dt-length-0",
+      "placeholder": "",
+      "required": false,
+      "className": "dt-input",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "input",
+      "type": "number",
+      "name": "",
+      "id": "awardsTable-jump-input-bottom",
+      "placeholder": "",
+      "required": false,
+      "className": "form-control jump2pg-input",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "input",
+      "type": "hidden",
+      "name": "",
+      "id": "token",
+      "placeholder": "",
+      "required": false,
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    },
+    {
+      "tag": "input",
+      "type": "hidden",
+      "name": "",
+      "id": "apiBaseUrl",
+      "placeholder": "",
+      "required": false,
+      "className": "",
+      "ariaLabel": null,
+      "role": null
+    }
+  ],
+  "images": [
+    {
+      "src": "https://asponte-stg.nlproducts.net/documents/d/asponte-technology-inc-2/govconlogo-svg",
+      "alt": "logo",
+      "title": "",
+      "width": 314,
+      "height": 66,
+      "loading": "auto"
+    }
+  ],
+  "tables": [
+    {
+      "tableNumber": 1,
+      "headers": [
+        "Portal Term",
+        "Definition",
+        "Example / Usage",
+        "",
+        "",
+        ""
+      ],
+      "rows": []
+    },
+    {
+      "tableNumber": 2,
+      "headers": [],
+      "rows": [
+        [
+          "Inactive",
+          "Indicates that a record, user, configuration, or process is no longer active or available for use.",
+          "An inactive contact is no longer used for current business activities."
+        ],
+        [
+          "Contract",
+          "A legally binding agreement between parties defining terms, obligations, deliverables, and other conditions.",
+          "A awarded government contract is stored and tracked in the portal."
+        ],
+        [
+          "Integration",
+          "A connection between the portal and another application or external data source.",
+          "The portal integrates with an external government data source."
+        ],
+        [
+          "Authentication Provider",
+          "External or internal service responsible for verifying user identity.",
+          "An organization's identity provider authenticates portal users."
+        ],
+        [
+          "Dashboard Metric",
+          "A numerical or calculated value displayed on a dashboard.",
+          "Total Open Opportunities is a dashboard metric."
+        ],
+        [
+          "Authorization",
+          "The process of determining what an authenticated user is allowed to access or perform.",
+          "After login, the system determines which modules the user can access."
+        ],
+        [
+          "Close Date",
+          "The expected date on which an opportunity is expected to be won, lost, or otherwise concluded.",
+          "The expected award date is entered as the close date."
+        ],
+        [
+          "Audit Trail",
+          "Historical record of changes or actions performed on a record or within the system.",
+          "The audit trail shows who changed an opportunity status and when."
+        ],
+        [
+          "Non-Functional Requirement",
+          "Requirement describing qualities or constraints such as performance, security, or availability.",
+          "The portal must meet defined response-time requirements."
+        ],
+        [
+          "Master Data",
+          "Core business information shared or referenced across multiple processes or systems.",
+          "Account and customer information may be treated as master data."
+        ],
+        [
+          "Functional Requirement",
+          "Requirement describing what the system should do.",
+          "The portal must allow users to create and edit opportunities."
+        ],
+        [
+          "Approval Matrix",
+          "Rules defining who must approve a transaction or request based on specific conditions.",
+          "High-value opportunities require multiple levels of approval."
+        ],
+        [
+          "Lead",
+          "A potential business prospect that may be qualified for further engagement.",
+          "A newly identified company is entered as a lead for follow-up."
+        ],
+        [
+          "Account",
+          "An organization or company represented in the portal.",
+          "A government agency or commercial customer can be maintained as an account."
+        ],
+        [
+          "Write Access",
+          "Permission allowing a user to create or modify information.",
+          "A manager has write access to opportunity records."
+        ],
+        [
+          "Support Ticket",
+          "A formal record used to track a reported problem, request, or service inquiry.",
+          "A user creates a support ticket for a login problem."
+        ],
+        [
+          "Created Date",
+          "Date and time when a record was created.",
+          "The Created Date indicates when an opportunity entered the system."
+        ],
+        [
+          "RFI",
+          "Request for Information; a government request used to gather information from industry before a potential procurement.",
+          "A company responds to an RFI to demonstrate its capabilities."
+        ],
+        [
+          "Change Request",
+          "Formal request to modify functionality, configuration, data, or system behavior.",
+          "A business user submits a change request for a new field."
+        ],
+        [
+          "Target System",
+          "System receiving data from another application or source.",
+          "The portal can act as the target system during data import."
+        ]
+      ]
+    },
+    {
+      "tableNumber": 3,
+      "headers": [],
+      "rows": []
+    }
+  ],
+  "accessibility": {
+    "landmarks": [
+      {
+        "tag": "nav",
+        "role": null,
+        "ariaLabel": "Quick Links"
+      },
+      {
+        "tag": "header",
+        "role": null,
+        "ariaLabel": null
+      },
+      {
+        "tag": "a",
+        "role": "button",
+        "ariaLabel": "Toggle Navigation"
+      },
+      {
+        "tag": "button",
+        "role": "button",
+        "ariaLabel": null
+      },
+      {
+        "tag": "nav",
+        "role": null,
+        "ariaLabel": null
+      },
+      {
+        "tag": "div",
+        "role": "main",
+        "ariaLabel": null
+      },
+      {
+        "tag": "main",
+        "role": null,
+        "ariaLabel": null
+      },
+      {
+        "tag": "div",
+        "role": "status",
+        "ariaLabel": null
+      },
+      {
+        "tag": "div",
+        "role": "status",
+        "ariaLabel": null
+      },
+      {
+        "tag": "nav",
+        "role": null,
+        "ariaLabel": "pagination"
+      },
+      {
+        "tag": "nav",
+        "role": null,
+        "ariaLabel": "Pagination"
+      },
+      {
+        "tag": "svg",
+        "role": "presentation",
+        "ariaLabel": null
+      },
+      {
+        "tag": "svg",
+        "role": "presentation",
+        "ariaLabel": null
+      },
+      {
+        "tag": "a",
+        "role": "button",
+        "ariaLabel": "Go to the next page, 2"
+      },
+      {
+        "tag": "svg",
+        "role": "presentation",
+        "ariaLabel": null
+      },
+      {
+        "tag": "a",
+        "role": "button",
+        "ariaLabel": "Go to last page"
+      },
+      {
+        "tag": "svg",
+        "role": "presentation",
+        "ariaLabel": null
+      },
+      {
+        "tag": "table",
+        "role": "grid",
+        "ariaLabel": "Results list"
+      },
+      {
+        "tag": "span",
+        "role": "button",
+        "ariaLabel": "Portal Term: Activate to sort"
+      },
+      {
+        "tag": "span",
+        "role": "button",
+        "ariaLabel": "Definition: Activate to sort"
+      },
+      {
+        "tag": "span",
+        "role": "button",
+        "ariaLabel": "Example / Usage: Activate to sort"
+      },
+      {
+        "tag": "table",
+        "role": "grid",
+        "ariaLabel": "Results list"
+      },
+      {
+        "tag": "table",
+        "role": "grid",
+        "ariaLabel": "Results list"
+      },
+      {
+        "tag": "nav",
+        "role": null,
+        "ariaLabel": "Pagination"
+      },
+      {
+        "tag": "svg",
+        "role": "presentation",
+        "ariaLabel": null
+      },
+      {
+        "tag": "svg",
+        "role": "presentation",
+        "ariaLabel": null
+      },
+      {
+        "tag": "a",
+        "role": "button",
+        "ariaLabel": "Go to the next page, 2"
+      },
+      {
+        "tag": "svg",
+        "role": "presentation",
+        "ariaLabel": null
+      },
+      {
+        "tag": "a",
+        "role": "button",
+        "ariaLabel": "Go to last page"
+      },
+      {
+        "tag": "svg",
+        "role": "presentation",
+        "ariaLabel": null
+      }
+    ],
+    "elementsWithoutAlt": 0,
+    "buttonsWithoutLabel": 0
+  },
+  "structuredData": [],
+  "httpStatus": 200,
+  "crawledAt": "2026-11-19T06:16:56.317Z",
+  "loadingWarning": null,
+  "screenshot": "screenshot.png"
+}

@@ -1,29 +1,38 @@
-
 {
   "website": {
     "name": "GovCon360",
-    "startUrl": "https://www.nlproducts.net/"
+    "startUrl": "https://asponte-stg.nlproducts.net"
   },
   "auth": {
-    "enabled": false,
-    "loginUrl": "",
+    "enabled": true,
+    "loginUrl": "https://asponte-stg.nlproducts.net/",
     "usernameSelector": "#username",
     "passwordSelector": "#password",
     "submitSelector": "#kc-login",
-    "successUrl": ""
+    "successUrl": "https://asponte-stg.nlproducts.net/**"
   },
   "browser": {
     "headless": true,
     "width": 1440,
     "height": 900
   },
-    "crawler": {
+  "crawler": {
     "waitTime": 1500,
     "delayBetweenPages": 500,
-    "timeout": 60000,
-    "waitUntil": "networkidle",
+    "timeout": 90000,
+    "loadingTimeout": 15000,
+    "navigationRetries": 3,
+    "waitUntil": "load",
+    "loadingSelector": ".skeleton, [class*=\"skeleton\"], [aria-busy=\"true\"], [role=\"progressbar\"]",
     "sameDomainOnly": true,
-    "removeQueryParameters": true
+    "removeQueryParameters": true,
+    "excludeUrlPatterns": [
+      "logout",
+      "log-out",
+      "signout",
+      "sign-out",
+      "logoff"
+    ]
   },
   "output": {
     "folder": "output",
